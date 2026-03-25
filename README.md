@@ -2,4 +2,4 @@
 경구약제 이미지 객체 검출 프로젝트
 
 
-공세령 협업일지 [노션링크](https://www.notion.so/1e19b68b6ad482418e34018e2bdd683b?source=copy_link)
+협업일지 [구글시트 링크](https://docs.google.com/spreadsheets/d/1O0zfyg_hiWu-L02N85qwJBho2GCq3n_pO2jacypseG8/edit?gid=1590775431#gid=1590775431)
